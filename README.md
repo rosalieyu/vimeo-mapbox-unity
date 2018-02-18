@@ -11,5 +11,5 @@ Create an empty Unity project, then import the custom `.unitypackage` under `/pa
 <br>
 <br><img src="https://github.com/rosalieyu/vimeo-mapbox-unity/blob/master/Images/v2.gif" />
 ## Acknowledgments
-The content of the video [Skin Deep](https://vimeo.com/256247770) was create for 2014 Big Screens event at IAC Center by By Alon Chitayat & Rosalie Yu
-<br>Music by Aaron Arntz, T.K. Broderick, and Justin Peak
+The content of the video [Skin Deep](https://vimeo.com/256247770) was create for 2014 Big Screens event at IAC Center by By Alon Chitayat & Rosalie Yu.
+<br>Music by Aaron Arntz, T.K. Broderick, and Justin Peak.
