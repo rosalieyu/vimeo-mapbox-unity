@@ -7,7 +7,7 @@ Download the latest [Unity](https://unity3d.com/), create Vimeo and Mapbox accou
 ### Run the project
 Create an empty Unity project, then import the custom `.unitypackage` under `/package`. Open the example unity scene under `Assets/Scenes`. Enter access token for [Mapbox](https://www.mapbox.com/unity/) when promped. Follow the instruction on the [Vimeo Unity SDK](https://github.com/vimeo/vimeo-unity-sdk) page to enter the Vimeo token. Press play.
 <br>
-<br>An video of the scene can be found [here](https://vimeo.com/256332666), password `iaccenter`
+<br>A video of the scene can be found [here](https://vimeo.com/256332666), password `iaccenter`
 <br>
 <br><img src="https://github.com/rosalieyu/vimeo-mapbox-unity/blob/master/Images/v2.gif" />
 ## Acknowledgments
