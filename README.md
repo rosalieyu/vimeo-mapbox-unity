@@ -7,9 +7,9 @@ Download the latest [Unity](https://unity3d.com/), create Vimeo and Mapbox accou
 ### Run the project
 Create an empty Unity project, then import the custom `.unitypackage` under `/package`. Open the example unity scene under `Assets/Scenes`. Enter access token for [Mapbox](https://www.mapbox.com/unity/) when promped. Follow the instruction on the [Vimeo Unity SDK](https://github.com/vimeo/vimeo-unity-sdk) page to enter the Vimeo token. Press play.
 <br>
-<br>A video of the scene can be found [here](https://vimeo.com/256332666), password `iaccenter`
+<br>A recording of the scene can be found [here](https://vimeo.com/256332666), password `iaccenter`
 <br>
 <br><img src="https://github.com/rosalieyu/vimeo-mapbox-unity/blob/master/Images/v2.gif" />
 ## Acknowledgments
-The content of the video was create for 2014 Big Screens event at IAC Center by By Alon Chitayat & Rosalie Yu
+The content of the video [Skin Deep](https://vimeo.com/256247770) was create for 2014 Big Screens event at IAC Center by By Alon Chitayat & Rosalie Yu
 <br>Music by Aaron Arntz, T.K. Broderick, and Justin Peak
