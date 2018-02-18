@@ -1,5 +1,5 @@
 # vimeo-mapbox-unity
-This Unity project streams a Vimeo video inside the IAC building that is dynamically created with Mapbox
+This Unity project streams a Vimeo video inside the IAC building that is dynamically created using Mapbox's API.
 ## Getting Started
 The project is created using [Vimeo Unity SDK](https://github.com/vimeo/vimeo-unity-sdk) by [Casey Pugh](https://github.com/caseypugh) and [Mapbox Unity SDK](https://www.mapbox.com/unity/), please refer to the sites for information on getting access tokens. 
 ### Prerequisites
